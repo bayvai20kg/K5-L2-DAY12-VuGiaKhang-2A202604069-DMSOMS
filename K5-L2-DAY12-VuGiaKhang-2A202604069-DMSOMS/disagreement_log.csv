@@ -1,0 +1,76 @@
+﻿﻿image,label,field,issue,mine,peer,verdict,guideline_rule,action
+D01.png,frame_meta,light,khác giá trị,unknown,night,ambiguous,4.4-1,Hai bạn thảo luận thống nhất theo guideline
+D01.png,person,seatbelt,khác giá trị (IoU=0.77),not_worn,unknown,ambiguous,4.4-1,Hai bạn thảo luận thống nhất theo guideline
+D01.png,face,gaze_zone,khác giá trị (IoU=0.73),mirror_r,road,mine,4.5,"Tài xế đang quay đầu/nhìn lệch, mine gán đúng hướng gương hoặc other"
+D02.png,frame_meta,light,khác giá trị,unknown,night,ambiguous,4.4-1,Hai bạn thảo luận thống nhất theo guideline
+D02.png,face,gaze_zone,khác giá trị (IoU=0.76),other,road,mine,4.5,"Tài xế đang quay đầu/nhìn lệch, mine gán đúng hướng gương hoặc other"
+D02.png,face13,mouth_right.occluded,khác cờ,0,1,ambiguous,4.6,Cùng zoom 200% trên CVAT để so vị trí điểm mốc và cờ occluded/outside
+D02.png,face13,mouth_right.outside,khác cờ,1,0,ambiguous,4.6,Cùng zoom 200% trên CVAT để so vị trí điểm mốc và cờ occluded/outside
+D02.png,face13,lip_upper.outside,khác cờ,1,0,ambiguous,4.6,Cùng zoom 200% trên CVAT để so vị trí điểm mốc và cờ occluded/outside
+D03.png,frame_meta,light,khác giá trị,unknown,night,ambiguous,4.4-1,Hai bạn thảo luận thống nhất theo guideline
+D03.png,face,eye_left,khác giá trị (IoU=0.75),open,unknown,mine,4.5,Thống nhất mắt trái nhìn thấy khe mở nên chọn open
+D03.png,face,gaze_zone,khác giá trị (IoU=0.75),other,center,ambiguous,4.5,"Góc nhìn nghiêng, hai bạn cùng thống nhất lại hướng nhìn của tài xế"
+D03.png,face13,left_eye_outer.occluded,khác cờ,0,1,ambiguous,4.6,Cùng zoom 200% trên CVAT để so vị trí điểm mốc và cờ occluded/outside
+D03.png,face13,left_eye_inner.occluded,khác cờ,0,1,ambiguous,4.6,Cùng zoom 200% trên CVAT để so vị trí điểm mốc và cờ occluded/outside
+D03.png,face13,left_eye_upper.occluded,khác cờ,0,1,ambiguous,4.6,Cùng zoom 200% trên CVAT để so vị trí điểm mốc và cờ occluded/outside
+D03.png,face13,left_eye_lower.occluded,khác cờ,0,1,ambiguous,4.6,Cùng zoom 200% trên CVAT để so vị trí điểm mốc và cờ occluded/outside
+D03.png,face13,right_eye_outer.occluded,khác cờ,0,1,ambiguous,4.6,Cùng zoom 200% trên CVAT để so vị trí điểm mốc và cờ occluded/outside
+D03.png,face13,right_eye_inner.occluded,khác cờ,0,1,ambiguous,4.6,Cùng zoom 200% trên CVAT để so vị trí điểm mốc và cờ occluded/outside
+D03.png,face13,right_eye_inner.outside,khác cờ,0,1,ambiguous,4.6,Cùng zoom 200% trên CVAT để so vị trí điểm mốc và cờ occluded/outside
+D03.png,face13,right_eye_upper.occluded,khác cờ,0,1,ambiguous,4.6,Cùng zoom 200% trên CVAT để so vị trí điểm mốc và cờ occluded/outside
+D03.png,face13,right_eye_upper.outside,khác cờ,0,1,ambiguous,4.6,Cùng zoom 200% trên CVAT để so vị trí điểm mốc và cờ occluded/outside
+D03.png,face13,right_eye_lower.occluded,khác cờ,0,1,ambiguous,4.6,Cùng zoom 200% trên CVAT để so vị trí điểm mốc và cờ occluded/outside
+D03.png,face13,right_eye_lower.outside,khác cờ,0,1,ambiguous,4.6,Cùng zoom 200% trên CVAT để so vị trí điểm mốc và cờ occluded/outside
+D03.png,face13,nose_tip.occluded,khác cờ,0,1,ambiguous,4.6,Cùng zoom 200% trên CVAT để so vị trí điểm mốc và cờ occluded/outside
+D03.png,face13,mouth_right.occluded,khác cờ,0,1,ambiguous,4.6,Cùng zoom 200% trên CVAT để so vị trí điểm mốc và cờ occluded/outside
+D04.png,frame_meta,light,khác giá trị,unknown,night,ambiguous,4.4-1,Hai bạn thảo luận thống nhất theo guideline
+D04.png,face,eye_left,khác giá trị (IoU=0.64),open,unknown,ambiguous,4.4-1,Hai bạn thảo luận thống nhất theo guideline
+D04.png,face,eye_right,khác giá trị (IoU=0.64),unknown,open,mine,4.5,Peer sửa thành unknown (không thấy rõ mí mở do đốm phản xạ che mắt)
+D04.png,face,gaze_zone,khác giá trị (IoU=0.64),center,road,mine,4.5,"Tài xế đang quay đầu/nhìn lệch, mine gán đúng hướng gương hoặc other"
+D04.png,face13,left_eye_inner.occluded,khác cờ,0,1,ambiguous,4.6,Cùng zoom 200% trên CVAT để so vị trí điểm mốc và cờ occluded/outside
+D04.png,face13,left_eye_lower.occluded,khác cờ,0,1,ambiguous,4.6,Cùng zoom 200% trên CVAT để so vị trí điểm mốc và cờ occluded/outside
+D05.png,frame_meta,light,khác giá trị,unknown,night,ambiguous,4.4-1,Hai bạn thảo luận thống nhất theo guideline
+D05.png,face,gaze_zone,khác giá trị (IoU=0.69),other,road,mine,4.5,"Tài xế đang quay đầu/nhìn lệch, mine gán đúng hướng gương hoặc other"
+D05.png,phone,box,chỉ có ở peer (hoặc IoU thấp),,,ambiguous,4.7,"Kiểm tra lại trên CVAT: chỉ vẽ phone khi thấy cạnh/góc máy, nếu không thì bỏ box"
+D05.png,face13,right_eye_outer.outside,khác cờ,0,1,ambiguous,4.6,Cùng zoom 200% trên CVAT để so vị trí điểm mốc và cờ occluded/outside
+D05.png,face13,right_eye_inner.outside,khác cờ,0,1,ambiguous,4.6,Cùng zoom 200% trên CVAT để so vị trí điểm mốc và cờ occluded/outside
+D05.png,face13,right_eye_upper.outside,khác cờ,0,1,ambiguous,4.6,Cùng zoom 200% trên CVAT để so vị trí điểm mốc và cờ occluded/outside
+D05.png,face13,right_eye_lower.outside,khác cờ,0,1,ambiguous,4.6,Cùng zoom 200% trên CVAT để so vị trí điểm mốc và cờ occluded/outside
+D05.png,face13,mouth_right.occluded,khác cờ,0,1,ambiguous,4.6,Cùng zoom 200% trên CVAT để so vị trí điểm mốc và cờ occluded/outside
+D06.png,frame_meta,light,khác giá trị,unknown,night,ambiguous,4.4-1,Hai bạn thảo luận thống nhất theo guideline
+S01_ir.png,frame_meta,light,khác giá trị,unknown,day,mine,4.4-1,Peer sửa thành unknown (ảnh SVIRO mô phỏng không có giờ thực)
+S01_rgb.png,frame_meta,light,khác giá trị,unknown,day,mine,4.4-1,Peer sửa thành unknown (ảnh SVIRO mô phỏng không có giờ thực)
+S02_ir.png,frame_meta,light,khác giá trị,unknown,day,mine,4.4-1,Peer sửa thành unknown (ảnh SVIRO mô phỏng không có giờ thực)
+S02_rgb.png,frame_meta,light,khác giá trị,unknown,day,mine,4.4-1,Peer sửa thành unknown (ảnh SVIRO mô phỏng không có giờ thực)
+S03_ir.png,frame_meta,light,khác giá trị,unknown,day,mine,4.4-1,Peer sửa thành unknown (ảnh SVIRO mô phỏng không có giờ thực)
+S03_ir.png,object,box,chỉ có ở peer (hoặc IoU thấp),,,peer,4.8,"Peer phát hiện đúng vật/túi đặt trong ghế, mine bổ sung thêm box object"
+S03_ir.png,object,box,chỉ có ở peer (hoặc IoU thấp),,,peer,4.8,"Peer phát hiện đúng vật/túi đặt trong ghế, mine bổ sung thêm box object"
+S03_rgb.png,frame_meta,light,khác giá trị,unknown,day,mine,4.4-1,Peer sửa thành unknown (ảnh SVIRO mô phỏng không có giờ thực)
+S03_rgb.png,object,box,chỉ có ở peer (hoặc IoU thấp),,,peer,4.8,"Peer phát hiện đúng vật/túi đặt trong ghế, mine bổ sung thêm box object"
+S03_rgb.png,object,box,chỉ có ở peer (hoặc IoU thấp),,,peer,4.8,"Peer phát hiện đúng vật/túi đặt trong ghế, mine bổ sung thêm box object"
+S04_ir.png,frame_meta,light,khác giá trị,unknown,day,mine,4.4-1,Peer sửa thành unknown (ảnh SVIRO mô phỏng không có giờ thực)
+S04_ir.png,frame_meta,modality,khác giá trị,rgb,ir,ambiguous,4.4-1,Hai bạn thảo luận thống nhất theo guideline
+S04_ir.png,object,box,chỉ có ở peer (hoặc IoU thấp),,,peer,4.8,"Peer phát hiện đúng vật/túi đặt trong ghế, mine bổ sung thêm box object"
+S04_rgb.png,frame_meta,light,khác giá trị,unknown,day,mine,4.4-1,Peer sửa thành unknown (ảnh SVIRO mô phỏng không có giờ thực)
+S04_rgb.png,frame_meta,modality,khác giá trị,ir,rgb,ambiguous,4.4-1,Hai bạn thảo luận thống nhất theo guideline
+S04_rgb.png,person,seatbelt,khác giá trị (IoU=0.89),unknown,not_worn,peer,4.7,"SVIRO không ai thắt dây, peer chọn not_worn là chuẩn theo dataset"
+S04_rgb.png,object,box,chỉ có ở peer (hoặc IoU thấp),,,peer,4.8,"Peer phát hiện đúng vật/túi đặt trong ghế, mine bổ sung thêm box object"
+S05_ir.png,frame_meta,light,khác giá trị,unknown,night,mine,4.4-1,Peer sửa thành unknown (ảnh SVIRO mô phỏng không có giờ thực)
+S05_rgb.png,frame_meta,light,khác giá trị,unknown,night,mine,4.4-1,Peer sửa thành unknown (ảnh SVIRO mô phỏng không có giờ thực)
+S06_ir.png,frame_meta,light,khác giá trị,unknown,night,mine,4.4-1,Peer sửa thành unknown (ảnh SVIRO mô phỏng không có giờ thực)
+S06_ir.png,frame_meta,modality,khác giá trị,ir,rgb,ambiguous,4.4-1,Hai bạn thảo luận thống nhất theo guideline
+S06_ir.png,infant_seat,seat,khác giá trị (IoU=0.77),rear_left,rear_right,mine,4.4-3,Peer sửa thành rear_left (ghế bên phải ảnh là bên trái xe rear_left)
+S06_ir.png,object,box,chỉ có ở peer (hoặc IoU thấp),,,peer,4.8,"Peer phát hiện đúng vật/túi đặt trong ghế, mine bổ sung thêm box object"
+S06_rgb.png,frame_meta,light,khác giá trị,unknown,night,mine,4.4-1,Peer sửa thành unknown (ảnh SVIRO mô phỏng không có giờ thực)
+S06_rgb.png,infant_seat,seat,khác giá trị (IoU=0.77),rear_left,rear_right,mine,4.4-3,Peer sửa thành rear_left (ghế bên phải ảnh là bên trái xe rear_left)
+S06_rgb.png,object,box,chỉ có ở peer (hoặc IoU thấp),,,peer,4.8,"Peer phát hiện đúng vật/túi đặt trong ghế, mine bổ sung thêm box object"
+S07_ir.png,frame_meta,light,khác giá trị,unknown,day,mine,4.4-1,Peer sửa thành unknown (ảnh SVIRO mô phỏng không có giờ thực)
+S07_ir.png,child_seat,box,chỉ có ở mine (hoặc IoU thấp),IoU=0.00,,ambiguous,4.4-1,Hai bạn thảo luận thống nhất theo guideline
+S07_ir.png,infant_seat,box,chỉ có ở peer (hoặc IoU thấp),,,ambiguous,4.4-1,Hai bạn thảo luận thống nhất theo guideline
+S07_rgb.png,frame_meta,light,khác giá trị,unknown,day,mine,4.4-1,Peer sửa thành unknown (ảnh SVIRO mô phỏng không có giờ thực)
+S07_rgb.png,child_seat,box,chỉ có ở mine (hoặc IoU thấp),IoU=0.00,,ambiguous,4.4-1,Hai bạn thảo luận thống nhất theo guideline
+S07_rgb.png,infant_seat,box,chỉ có ở peer (hoặc IoU thấp),,,ambiguous,4.4-1,Hai bạn thảo luận thống nhất theo guideline
+S08_ir.png,frame_meta,light,khác giá trị,unknown,day,mine,4.4-1,Peer sửa thành unknown (ảnh SVIRO mô phỏng không có giờ thực)
+S08_ir.png,infant_seat,facing,khác giá trị (IoU=0.82),front,rear,mine,4.1,Thống nhất nôi quay mặt về phía trước xe (facing=front)
+S08_rgb.png,frame_meta,light,khác giá trị,unknown,day,mine,4.4-1,Peer sửa thành unknown (ảnh SVIRO mô phỏng không có giờ thực)
+S08_rgb.png,infant_seat,facing,khác giá trị (IoU=0.82),front,rear,mine,4.1,Thống nhất nôi quay mặt về phía trước xe (facing=front)

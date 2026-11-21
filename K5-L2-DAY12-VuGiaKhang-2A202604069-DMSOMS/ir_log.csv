@@ -1,0 +1,6 @@
+frame_id,source,phenomenon,affected_field,effect_on_label
+S01_ir,IR_sim,"ảnh IR-sim mất thông tin màu sắc, độ tương phản giữa quần áo tối màu và thành ghế giảm",person,"phải dựa vào hình khối để vẽ box ôm người thay vì ranh giới màu sắc"
+S04_ir,IR_sim,"không nhìn thấy dây an toàn do nền áo tối và không có tương phản màu như ảnh RGB",seatbelt,"giữ unknown vì không quan sát được sợi dây"
+D01,real_IR,"tia LED cận hồng ngoại 940nm gây đốm phản xạ trắng trên tròng kính mắt",glasses,"vẫn xác định được kính cận clear nhưng tròng bị bóng sáng"
+D03,real_IR,"đốm phản quang LED NIR che khuất một phần vùng mắt phải của tài xế",eye_right,"chọn unknown thay vì suy đoán closed"
+D05,real_IR,"ánh sáng NIR làm nổi rõ đường viền bàn tay và ngón tay trong cabin tối",hand,"xác định rõ vị trí bàn tay của tài xế và nhận biết tay không chạm vô lăng (on_wheel=no)"

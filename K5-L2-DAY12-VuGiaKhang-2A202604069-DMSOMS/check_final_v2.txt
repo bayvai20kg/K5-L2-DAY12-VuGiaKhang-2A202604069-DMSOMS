@@ -1,0 +1,25 @@
+File: export_final_v2.zip
+Ảnh: 22 · đã có frame_meta: 22 · số đối tượng: child_seat=16, face=6, face13=6, hand=12, infant_seat=8, person=10
+  [WARN] S01_ir.png: ảnh SVIRO là ảnh dựng: light nên là 'unknown'
+  [WARN] S01_rgb.png: ảnh SVIRO là ảnh dựng: light nên là 'unknown'
+  [WARN] S02_ir.png: ảnh SVIRO là ảnh dựng: light nên là 'unknown'
+  [WARN] S02_rgb.png: ảnh SVIRO là ảnh dựng: light nên là 'unknown'
+  [WARN] S03_ir.png: ảnh SVIRO là ảnh dựng: light nên là 'unknown'
+  [WARN] S03_rgb.png: ảnh SVIRO là ảnh dựng: light nên là 'unknown'
+  [WARN] S04_ir.png: ảnh SVIRO là ảnh dựng: light nên là 'unknown'
+  [WARN] S04_rgb.png: person: seat=driver trên ảnh SVIRO (camera chỉ nhìn hàng ghế sau)
+  [WARN] S05_ir.png: ảnh SVIRO là ảnh dựng: light nên là 'unknown'
+  [WARN] S05_rgb.png: ảnh SVIRO là ảnh dựng: light nên là 'unknown'
+  [WARN] S05_rgb.png: ghế rear_right có nhiều box cùng loại: ['child_seat', 'child_seat']
+  [WARN] S06_ir.png: ảnh SVIRO là ảnh dựng: light nên là 'unknown'
+  [WARN] S06_rgb.png: ảnh SVIRO là ảnh dựng: light nên là 'unknown'
+  [WARN] S07_ir.png: ảnh SVIRO là ảnh dựng: light nên là 'unknown'
+  [WARN] S07_rgb.png: ảnh SVIRO là ảnh dựng: light nên là 'unknown'
+  [WARN] S08_ir.png: ảnh SVIRO là ảnh dựng: light nên là 'unknown'
+  [WARN] S08_rgb.png: ảnh SVIRO là ảnh dựng: light nên là 'unknown'
+Kết quả: 0 lỗi, 17 cảnh báo. Cảnh báo cần bạn tự xét, không tự động là sai.
+
+Gi?i th�ch c�c c?nh b�o:
+- S01-S08: C?nh b�o light l� do SVIRO l� ?nh 3D m� ph?ng kh�ng c� chu k? ng�y/d�m th?c t?.
+- S04_rgb: Gh? rear_middle c?a ngu?i l?n khoang sau, d� ch?nh l?i v? tr� gh? theo xe.
+- S05_rgb: Hai gh? tr? em ri�ng bi?t ? hai v? tr� rear_left v� rear_right.
